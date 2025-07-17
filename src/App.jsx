@@ -4,9 +4,9 @@ import { Sparkles, Instagram, Facebook, Mail } from 'lucide-react';
 const initialNails = [
   {
     id: 1,
-    title: 'Estilo Azul con Mariposas',
-    image: '/uñas_azules_diseño_mariposas.jpeg',
-    description: 'Diseño elegante con tonos claros azules, con mariposas.',
+    title: 'Estilo Ojo de Gato',
+    image: '/uñas_ojo_de_gato.jpeg',
+    description: 'Diseño elegante con tonos oscuros rojos, dandole un toque de iluminación.',
   },
   {
     id: 2,
@@ -18,25 +18,25 @@ const initialNails = [
     id: 3,
     title: 'Uñas Gellish',
     image: '/uñas_gelish.jpg',
-    description: 'Estilo sencillo pero con una preciosa vista',
+    description: 'Estilo sencillo pero con una preciosa vista.',
   },
   {
     id: 4,
-    title: 'Uñas rojas',
-    image: '/uñas_rojas_esmalte.png',
-    description: 'Un estilo reluciente con un esmalte rojo muy llamativo',
+    title: 'Uñas Mate Color Azul',
+    image: '/uñas_matte.jpeg',
+    description: 'Un estilo reluciente con un esmalte color azul, llamativo.',
   },
   {
     id: 5,
-    title: 'Uñas estilo Frances',
-    image: '/uñas_estilo_frances.jpg',
-    description: 'Gran belleza tan unica en un estilo lindo como lo es el estilo frances',
+    title: 'Uñas Estilo Frances',
+    image: '/uñas_estilo_frances.jpeg',
+    description: 'Gran belleza tan unica en un estilo lindo.',
   },
   {
     id: 6,
     title: 'Uñas decoradas con piedras',
-    image: '/uñas_decoradas_piedreria.jpg',
-    description: 'Piedras pequeñas como llamativas en uñas acrilicas',
+    image: '/uñas_rositas.jpeg',
+    description: 'Piedras pequeñas llamativas en uñas polygel.',
   },
 ];
 
